@@ -5,7 +5,7 @@ grand_parent: Meeting Minutes
 ---
 
 # Post-Quantum Cryptography Alliance - Readiness Tracking Working Group Meeting 08 October, 2026
-[**View Recording**](pending)
+[**View Recording**](https://zoom.us/rec/share/PxZSLaQT5rvSgeTN5evVlAY1aZmFd07lcO_3G1xk3MR99XGd-MqodZPZJfKQciJ_.zCsByglKHPEOiJKB)
 *Recordings are also available on your [Open Profile](https://openprofile.dev/my-meetings) page under Past Meetings*  
 [**Join the meeting**](https://zoom-lfx.platform.linuxfoundation.org/meeting/92180236021?password%3Db0389cf7-46b4-4b12-8960-743736597cff&sa=D&source=calendar&ust=1779060340269221&usg=AOvVaw0xXXgXsS7I24ZkWvbZYInS)  
 [**PQCA Meeting Calendar**](https://pqca.org/calendar/)  
@@ -26,9 +26,9 @@ Updegrove LLP, which provides legal counsel to the Linux Foundation.
 ---
 
 ## Attendance (_Alphabetical by 1st name_)
-* [] Aditya Koranga, NgKore \[TAC Chair\]
+* [X] Aditya Koranga, NgKore \[TAC Chair\]
 * [] Alexey Odinokov, PQC Ready
-* [] Andy Warner, Google \[Tracking WG Chair\]
+* [X] Andy Warner, Google \[Tracking WG Chair\]
 * [] Avinash Nagadi
 * [] Basil Hess, IBM
 * [] Bill Turner, PKI Consortium
@@ -36,21 +36,23 @@ Updegrove LLP, which provides legal counsel to the Linux Foundation.
 * [] Daniel Speciale, QInsight
 * [] Ganesh Mallya, AppViewX
 * [] Guncha Malik, IBM
+* [x] Hamid Heyhat, AG Swire
 * [] Hart Montgomery, Linux Foundation
-* [] Ian Palmer, GCIB
+* [X] Ian Palmer, GCIB
 * [] Iyán Méndez Veiga, HSLU / ETH Zurich
 * [] Jane Ginn, Cyber Threat Intelligence Network
 * [] João Rodolfo
 * [] Jeyaganesh Narayanaswamy, AIB (Ireland)
 * [] Kyle Loree, Quantum Algorithms Institute
 * [] Manali Ahirrao
-* [] Marla Sumner, UT Austin
+* [X] Marla Sumner, UT Austin
 * [] Masab Iqbal, Multiverse Computing
 * [] Michael Howard, Microsoft
 * [] Mike Novak
 * [] Mukul Kulkarni, Technology Innovation Institute (Abu Dhabi)
 * [] Neha Gupta, University of Surrey
 * [] Neil Ginns
+* [] Roger Grimes, Post-Quantum Defense
 * [] Salvatore Migliaccio, Namirial
 * [] Shubham Kumar, NgKore
 * [] Sogo Pierre Sanon, Hydro Quebec Research Institute
@@ -113,4 +115,4 @@ Have new attendees provide a quick intro (name, company / org, why they are inte
 
 ---
 
-**Adjourned:** ?? am PT.
+**Adjourned:**  09:25 am PT.
